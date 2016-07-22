@@ -55,7 +55,7 @@ extension TableViewCell {
     // optional swipe delegate (see functions below)
     swipe.delegate = self
     
-    // set the starting positions for the swipe buttons (up to 3 on each side)
+    // set the starting positions for the swipe buttons (up to 4 on each side)
     swipe.firstTrigger = 0.15
     swipe.secondTrigger = 0.40
     swipe.thirdTrigger = 0.65
