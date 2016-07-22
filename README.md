@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# iOS-Swift-Swipe-TableView-Cell-2
+# Swipe Cell
 
 **purpose** to have a better user experience when doing actions on items in a list.
 
@@ -53,6 +52,3 @@
 **status** working.
 
 ![gif](http://i.imgur.com/Xxs98f1.gif)
-=======
-# SwipeCell
->>>>>>> fcc67bc805e51e4c1c0a8962e3911f945304df3d

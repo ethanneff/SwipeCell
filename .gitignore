@@ -4,11 +4,7 @@
 
 ## Build generated
 build/
-<<<<<<< HEAD
 DerivedData
-=======
-DerivedData/
->>>>>>> fcc67bc805e51e4c1c0a8962e3911f945304df3d
 
 ## Various settings
 *.pbxuser
@@ -19,7 +15,6 @@ DerivedData/
 !default.mode2v3
 *.perspectivev3
 !default.perspectivev3
-<<<<<<< HEAD
 xcuserdata
 
 ## Other
@@ -27,22 +22,10 @@ xcuserdata
 *.moved-aside
 *.xcuserstate
 *.xcscmblueprint
-=======
-xcuserdata/
-
-## Other
-*.moved-aside
-*.xcuserstate
->>>>>>> fcc67bc805e51e4c1c0a8962e3911f945304df3d
 
 ## Obj-C/Swift specific
 *.hmap
 *.ipa
-<<<<<<< HEAD
-=======
-*.dSYM.zip
-*.dSYM
->>>>>>> fcc67bc805e51e4c1c0a8962e3911f945304df3d
 
 ## Playgrounds
 timeline.xctimeline
@@ -71,23 +54,10 @@ Carthage/Build
 
 # fastlane
 #
-<<<<<<< HEAD
-# It is recommended to not store the screenshots in the git repo. Instead, use fastlane to re-generate the 
+# It is recommended to not store the screenshots in the git repo. Instead, use fastlane to re-generate the
 # screenshots whenever they are needed.
 # For more information about the recommended setup visit:
 # https://github.com/fastlane/fastlane/blob/master/docs/Gitignore.md
 
 fastlane/report.xml
 fastlane/screenshots
-.DS_Store
-=======
-# It is recommended to not store the screenshots in the git repo. Instead, use fastlane to re-generate the
-# screenshots whenever they are needed.
-# For more information about the recommended setup visit:
-# https://github.com/fastlane/fastlane/blob/master/fastlane/docs/Gitignore.md
-
-fastlane/report.xml
-fastlane/Preview.html
-fastlane/screenshots
-fastlane/test_output
->>>>>>> fcc67bc805e51e4c1c0a8962e3911f945304df3d
