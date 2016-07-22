@@ -2,7 +2,7 @@
 
 **purpose** to have a better user experience when doing actions on items in a list.
 
-**vision** working Swift version of [MCSwipeTableViewCell](https://github.com/alikaragoz/MCSwipeTableViewCell) with up to 3 gestures in each direction (iOS 8+)
+**vision** working Swift version of [MCSwipeTableViewCell](https://github.com/alikaragoz/MCSwipeTableViewCell) with up to 4 gestures in each direction (iOS 8+)
 
 **methodology** coded in Swift, import ```SwipeCell.swift``` and ```SwipeCell.xib``` and add this code to your TableViewController
 
@@ -23,7 +23,7 @@ class TableViewCell: UITableViewCell {
     // optional swipe delegate (see functions below)
     swipe.delegate = self
     
-    // set the starting positions for the swipe buttons (up to 3 on each side)
+    // set the starting positions for the swipe buttons (up to 4 on each side)
     swipe.firstTrigger = 0.15
     swipe.secondTrigger = 0.40
     swipe.thirdTrigger = 0.65
